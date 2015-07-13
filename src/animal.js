@@ -10,6 +10,8 @@ Animal.prototype.oink = function(){
   } else {
     return "I'm not a pig";
   }
-};
+},
+
+Animal.prototype
 
 module.exports=Animal;
